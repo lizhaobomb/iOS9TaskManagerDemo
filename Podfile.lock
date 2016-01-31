@@ -1,0 +1,13 @@
+PODS:
+  - Dimension/ObjC (1.2.4)
+  - iCarousel (1.8.2)
+
+DEPENDENCIES:
+  - Dimension/ObjC
+  - iCarousel
+
+SPEC CHECKSUMS:
+  Dimension: 3322bf4cd6be26e7a5ba0fd28c110706cf508d23
+  iCarousel: 441daa806952808a6bb2f057de7d86336a7c1b63
+
+COCOAPODS: 0.35.0
